@@ -25,12 +25,14 @@ class ClientSet(object):
 
     :param config_file: kube config file (refer to TODO for file format). If provided, the rest of parameters will be ignored.
     :param host: The basic path for kubernetes API server.
+    :param ssl_ca_cert: customize the certificate file to verify the peer.
     :param token: Authentication token for the API server.
     :param username: authentication username for the API server.
     :param password: authentication password for the API server.
     """
-    def __init__(self, config_file=None, host="https://localhost", token="", username="", password=""):
+    def __init__(self, config_file=None, host="https://localhost", ssl_ca_cert=None, token="", username="", password=""):
         self.host = host
+        self.ssl_ca_cert = ssl_ca_cert
         self.username = username
         self.password = password
         self.token = token
@@ -42,6 +44,7 @@ class ClientSet(object):
                 active_context = find_object_with_name(config['contexts'], config['current-context'])['context']
                 user = find_object_with_name(config['users'],active_context['user'])['user']
                 cluster = find_object_with_name(config['clusters'],active_context['cluster'])['cluster']
+                print cluster
                 if 'server' in cluster:
                     self.host = cluster['server']
                 if 'username' in user:
@@ -50,6 +53,8 @@ class ClientSet(object):
                     self.password = user['password']
                 if 'token' in user:
                     self.token = user['token']
+                #if 'certificate-authority-data' in cluster:
+                #    self.ssl_ca_cert = cluster['certificate-authority-data']
             finally:
                 f.close()
 
@@ -58,46 +63,24 @@ class ClientSet(object):
             config = __import__('k8sclient_%s.configuration' % (name))
             api = __import__('k8sclient_%s.apis.default_api' % (name))
             models = __import__('k8sclient_%s.models' % (name))
+            config_cls = config.Configuration()
+            config_cls.host = self.host
+            config_cls.username = self.username
+            config_cls.password = self.password
+            if self.token:
+                config_cls.api_key_prefix['authorization']='bearer'
+                config_cls.api_key['authorization'] = self.token
+#            config_cls.ssl_ca_cert = self.ssl_ca_cert
+            config.verify_ssl = False
             self._clients[name] = {'config': config, 'api': api, models: 'models'}
 
-    def get_client(self, name):
+    def get_client(self, name, api_client=None):
         self._load_client(name)
-        return self._clients[name]['api']
+        return self._clients[name]['api'].DefaultApi(api_client=api_client)
 
     def get_models(self, name):
         self._load_client(name)
         return self._clients[name]['models']
 
-
-
-
-
-
-
-
-
-
-def get_client(name, config_file):
-  try:
-      get_client = __import__("client_%s.client" % (name))
-  except Exception, e:
-      print e
-      return None
-  return get_client.get_client(config_file)
-
-def Main():
-    f = open("/Users/mehdy/.kube/config")
-    config = yaml.load(f)
-    f.close()
-    for k in config:
-        print k
-    contexts = config['contexts']
-    context = find_object_with_name(contexts, config['current-context'])['context']
-    print context
-    user = find_object_with_name(config['users'],context['user'])['user']
-    print user['token']
-    cluster = find_object_with_name(config['clusters'],context['cluster'])['cluster']
-    print cluster['server']
-
-
-Main()
+    def __str__(self):
+        return "ClientSet:\n  host=%s\n  username=%s\n  password=%s\n  token=%s\n  ssl_ca_cert=%s\n" % (self.host, self.username, self.password, self.token, self.ssl_ca_cert)
