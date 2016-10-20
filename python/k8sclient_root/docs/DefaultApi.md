@@ -551,14 +551,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -590,7 +583,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -613,14 +606,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -654,7 +640,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -677,14 +663,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -716,7 +695,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -739,14 +718,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -780,7 +752,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -803,14 +775,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -840,7 +805,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -863,14 +828,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -902,7 +860,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -925,14 +883,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -972,7 +923,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -995,14 +946,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1044,7 +988,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1067,14 +1011,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1104,7 +1041,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1127,14 +1064,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1166,7 +1096,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1189,14 +1119,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1230,7 +1153,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1253,14 +1176,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1292,7 +1208,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1315,14 +1231,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1356,7 +1265,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1379,14 +1288,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1416,7 +1318,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1439,14 +1341,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1478,7 +1373,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1501,14 +1396,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1540,7 +1428,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1563,14 +1451,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1604,7 +1485,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1627,14 +1508,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1666,7 +1540,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1689,14 +1563,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1730,7 +1597,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1753,14 +1620,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1790,7 +1650,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1813,14 +1673,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1852,7 +1705,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1875,14 +1728,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1914,7 +1760,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -1937,14 +1783,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -1978,7 +1817,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2001,14 +1840,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2040,7 +1872,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2063,14 +1895,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2104,7 +1929,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2127,14 +1952,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2164,7 +1982,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2187,14 +2005,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2226,7 +2037,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2249,14 +2060,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2296,7 +2100,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2319,14 +2123,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2368,7 +2165,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2391,14 +2188,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2428,7 +2218,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2451,14 +2241,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2490,7 +2273,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2513,14 +2296,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2554,7 +2330,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2577,14 +2353,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2616,7 +2385,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2639,14 +2408,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2680,7 +2442,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2703,14 +2465,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2740,7 +2495,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2763,14 +2518,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2802,7 +2550,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2825,14 +2573,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2864,7 +2605,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2887,14 +2628,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2928,7 +2662,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -2951,14 +2685,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -2990,7 +2717,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3013,14 +2740,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3054,7 +2774,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3077,14 +2797,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3114,7 +2827,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3137,14 +2850,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3176,7 +2882,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3199,14 +2905,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3238,7 +2937,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3261,14 +2960,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3298,7 +2990,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3321,14 +3013,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3360,7 +3045,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3383,14 +3068,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3420,7 +3098,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3443,14 +3121,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3480,7 +3151,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3503,14 +3174,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3542,7 +3206,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3565,14 +3229,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3604,7 +3261,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3627,14 +3284,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3664,7 +3314,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3687,14 +3337,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3724,7 +3367,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3747,14 +3390,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3786,7 +3422,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3809,14 +3445,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3850,7 +3479,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3873,14 +3502,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3912,7 +3534,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3935,14 +3557,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -3974,7 +3589,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -3997,14 +3612,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4036,7 +3644,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4059,14 +3667,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4100,7 +3701,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4123,14 +3724,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4162,7 +3756,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4185,14 +3779,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4224,7 +3811,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4247,14 +3834,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4286,7 +3866,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4309,14 +3889,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4348,7 +3921,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4371,14 +3944,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4410,7 +3976,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4433,14 +3999,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4472,7 +4031,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4495,14 +4054,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4534,7 +4086,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4557,14 +4109,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4596,7 +4141,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4619,14 +4164,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4658,7 +4196,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4681,14 +4219,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4718,7 +4249,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4741,14 +4272,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4778,7 +4302,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4801,14 +4325,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4840,7 +4357,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4863,14 +4380,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4902,7 +4412,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4925,14 +4435,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -4966,7 +4469,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -4989,14 +4492,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5028,7 +4524,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5051,14 +4547,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5090,7 +4579,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5113,14 +4602,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5152,7 +4634,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5175,14 +4657,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5214,7 +4689,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5237,14 +4712,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5276,7 +4744,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5299,14 +4767,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5336,7 +4797,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5359,14 +4820,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5398,7 +4852,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5421,14 +4875,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5458,7 +4905,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5481,14 +4928,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5518,7 +4958,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5541,14 +4981,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5580,7 +5013,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5603,14 +5036,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5642,7 +5068,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5665,14 +5091,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5702,7 +5121,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5725,14 +5144,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5772,7 +5184,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5795,14 +5207,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5836,7 +5241,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5859,14 +5264,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5906,7 +5304,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5929,14 +5327,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -5970,7 +5361,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -5993,14 +5384,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6040,7 +5424,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6063,14 +5447,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6104,7 +5481,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6127,14 +5504,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6166,7 +5536,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6189,14 +5559,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6234,7 +5597,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6257,14 +5620,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6302,7 +5658,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6325,14 +5681,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6372,7 +5721,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6395,14 +5744,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6442,7 +5784,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6465,14 +5807,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6512,7 +5847,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6535,14 +5870,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6582,7 +5910,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6605,14 +5933,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6652,7 +5973,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6675,14 +5996,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6722,7 +6036,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6745,14 +6059,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6792,7 +6099,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6815,14 +6122,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6862,7 +6162,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6885,14 +6185,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -6932,7 +6225,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -6955,14 +6248,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7002,7 +6288,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7025,14 +6311,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7072,7 +6351,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7095,14 +6374,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7140,7 +6412,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7163,14 +6435,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7208,7 +6473,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7231,14 +6496,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7270,7 +6528,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7293,14 +6551,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7334,7 +6585,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7357,14 +6608,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7398,7 +6642,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7421,14 +6665,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7462,7 +6699,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7485,14 +6722,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7526,7 +6756,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7549,14 +6779,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7590,7 +6813,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7613,14 +6836,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7654,7 +6870,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7677,14 +6893,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7718,7 +6927,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7741,14 +6950,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7782,7 +6984,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7805,14 +7007,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7846,7 +7041,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7869,14 +7064,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7910,7 +7098,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7933,14 +7121,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -7972,7 +7153,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -7995,14 +7176,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8036,7 +7210,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8059,14 +7233,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8098,7 +7265,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8121,14 +7288,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8160,7 +7320,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8183,14 +7343,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8230,7 +7383,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8253,14 +7406,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8300,7 +7446,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8323,14 +7469,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8370,7 +7509,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8393,14 +7532,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8440,7 +7572,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8463,14 +7595,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8510,7 +7635,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8533,14 +7658,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8580,7 +7698,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8603,14 +7721,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8650,7 +7761,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8673,14 +7784,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8718,7 +7822,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8741,14 +7845,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8782,7 +7879,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8805,14 +7902,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8846,7 +7936,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8869,14 +7959,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8910,7 +7993,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8933,14 +8016,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -8974,7 +8050,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -8997,14 +8073,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9038,7 +8107,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9061,14 +8130,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9102,7 +8164,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9125,14 +8187,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9166,7 +8221,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9189,14 +8244,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9228,7 +8276,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9251,14 +8299,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9298,7 +8339,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9321,14 +8362,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9362,7 +8396,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9385,14 +8419,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9424,7 +8451,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9447,14 +8474,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9486,7 +8506,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9509,14 +8529,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9554,7 +8567,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9577,14 +8590,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9622,7 +8628,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9645,14 +8651,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9692,7 +8691,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9715,14 +8714,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9762,7 +8754,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9785,14 +8777,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9826,7 +8811,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9849,14 +8834,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9890,7 +8868,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9913,14 +8891,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -9958,7 +8929,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -9981,14 +8952,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10020,7 +8984,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10043,14 +9007,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10074,7 +9031,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10097,14 +9054,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10128,7 +9078,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10151,14 +9101,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10182,7 +9125,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10205,14 +9148,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10236,7 +9172,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10259,14 +9195,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10290,7 +9219,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10313,14 +9242,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10344,7 +9266,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10367,14 +9289,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10398,7 +9313,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10421,14 +9336,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10452,7 +9360,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10475,14 +9383,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10506,7 +9407,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10529,14 +9430,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10560,7 +9454,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10583,14 +9477,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10614,7 +9501,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10637,14 +9524,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10668,7 +9548,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10691,14 +9571,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10722,7 +9595,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10745,14 +9618,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10776,7 +9642,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10799,14 +9665,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10830,7 +9689,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10853,14 +9712,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10884,7 +9736,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10907,14 +9759,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10938,7 +9783,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -10961,14 +9806,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -10992,7 +9830,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11015,14 +9853,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11046,7 +9877,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11069,14 +9900,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11100,7 +9924,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11123,14 +9947,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11154,7 +9971,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11177,14 +9994,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11208,7 +10018,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11231,14 +10041,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11262,7 +10065,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11285,14 +10088,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11316,7 +10112,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11339,14 +10135,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11370,7 +10159,7 @@ This endpoint does not need any parameter.
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11393,14 +10182,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11440,7 +10222,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11463,14 +10245,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11508,7 +10283,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11531,14 +10306,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11576,7 +10344,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11599,14 +10367,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11646,7 +10407,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11669,14 +10430,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11714,7 +10468,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11737,14 +10491,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11784,7 +10531,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11807,14 +10554,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11852,7 +10592,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11875,14 +10615,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11920,7 +10653,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -11943,14 +10676,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -11988,7 +10714,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12011,14 +10737,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12056,7 +10775,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12079,14 +10798,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12124,7 +10836,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12147,14 +10859,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12192,7 +10897,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12215,14 +10920,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12260,7 +10958,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12283,14 +10981,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12330,7 +11021,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12353,14 +11044,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12400,7 +11084,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12423,14 +11107,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12470,7 +11147,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12493,14 +11170,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12540,7 +11210,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12563,14 +11233,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12610,7 +11273,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12633,14 +11296,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12680,7 +11336,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12703,14 +11359,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12750,7 +11399,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12773,14 +11422,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12820,7 +11462,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12843,14 +11485,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12890,7 +11525,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12913,14 +11548,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -12960,7 +11588,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -12983,14 +11611,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13030,7 +11651,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13053,14 +11674,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13100,7 +11714,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13123,14 +11737,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13168,7 +11775,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13191,14 +11798,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13236,7 +11836,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13259,14 +11859,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13304,7 +11897,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13327,14 +11920,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13372,7 +11958,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13395,14 +11981,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13440,7 +12019,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13463,14 +12042,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13508,7 +12080,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13531,14 +12103,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13576,7 +12141,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13599,14 +12164,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13644,7 +12202,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13667,14 +12225,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13712,7 +12263,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13735,14 +12286,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13780,7 +12324,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13803,14 +12347,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13848,7 +12385,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13871,14 +12408,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13916,7 +12446,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -13939,14 +12469,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -13984,7 +12507,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14007,14 +12530,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14052,7 +12568,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14075,14 +12591,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14120,7 +12629,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14143,14 +12652,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14190,7 +12692,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14213,14 +12715,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14260,7 +12755,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14283,14 +12778,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14330,7 +12818,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14353,14 +12841,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14400,7 +12881,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14423,14 +12904,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14470,7 +12944,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14493,14 +12967,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14540,7 +13007,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14563,14 +13030,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14610,7 +13070,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14633,14 +13093,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14678,7 +13131,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14701,14 +13154,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14746,7 +13192,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14769,14 +13215,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14814,7 +13253,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14837,14 +13276,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14884,7 +13316,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14907,14 +13339,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -14952,7 +13377,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -14975,14 +13400,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15020,7 +13438,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15043,14 +13461,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15088,7 +13499,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15111,14 +13522,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15158,7 +13562,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15181,14 +13585,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15228,7 +13625,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15251,14 +13648,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15296,7 +13686,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15319,14 +13709,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15364,7 +13747,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15387,14 +13770,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15432,7 +13808,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15453,14 +13829,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15487,7 +13856,7 @@ void (empty response body)
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15508,14 +13877,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15538,7 +13900,7 @@ void (empty response body)
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15561,14 +13923,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15602,7 +13957,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15625,14 +13980,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15666,7 +14014,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15689,14 +14037,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15730,7 +14071,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15753,14 +14094,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15794,7 +14128,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15817,14 +14151,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15858,7 +14185,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15881,14 +14208,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15922,7 +14242,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -15945,14 +14265,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -15984,7 +14297,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16007,14 +14320,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16046,7 +14352,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16069,14 +14375,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16108,7 +14407,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16131,14 +14430,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16172,7 +14464,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16195,14 +14487,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16236,7 +14521,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16259,14 +14544,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16300,7 +14578,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16323,14 +14601,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16364,7 +14635,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16387,14 +14658,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16428,7 +14692,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16451,14 +14715,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16492,7 +14749,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16515,14 +14772,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16556,7 +14806,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16579,14 +14829,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16620,7 +14863,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16643,14 +14886,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16684,7 +14920,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16707,14 +14943,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16748,7 +14977,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16771,14 +15000,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16812,7 +15034,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16835,14 +15057,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16876,7 +15091,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16899,14 +15114,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -16940,7 +15148,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -16963,14 +15171,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17004,7 +15205,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17027,14 +15228,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17068,7 +15262,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17091,14 +15285,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17132,7 +15319,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17155,14 +15342,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17196,7 +15376,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17219,14 +15399,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17260,7 +15433,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17283,14 +15456,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17322,7 +15488,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17345,14 +15511,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17384,7 +15543,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17407,14 +15566,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17446,7 +15598,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17469,14 +15621,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17508,7 +15653,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17531,14 +15676,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17572,7 +15710,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17595,14 +15733,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17636,7 +15767,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17659,14 +15790,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17700,7 +15824,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17723,14 +15847,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17764,7 +15881,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17787,14 +15904,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17828,7 +15938,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17851,14 +15961,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17892,7 +15995,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17915,14 +16018,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -17956,7 +16052,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -17979,14 +16075,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18020,7 +16109,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18043,14 +16132,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18084,7 +16166,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18107,14 +16189,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18148,7 +16223,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18171,14 +16246,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18212,7 +16280,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18235,14 +16303,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18276,7 +16337,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18299,14 +16360,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18340,7 +16394,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18363,14 +16417,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18404,7 +16451,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18427,14 +16474,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18468,7 +16508,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18491,14 +16531,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18532,7 +16565,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18555,14 +16588,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18594,7 +16620,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18617,14 +16643,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18658,7 +16677,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18681,14 +16700,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18722,7 +16734,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18745,14 +16757,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18784,7 +16789,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18807,14 +16812,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18846,7 +16844,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18869,14 +16867,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18910,7 +16901,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18933,14 +16924,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -18974,7 +16958,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -18997,14 +16981,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19036,7 +17013,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19059,14 +17036,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19096,7 +17066,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19119,14 +17089,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19158,7 +17121,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19181,14 +17144,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19218,7 +17174,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19241,14 +17197,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19280,7 +17229,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19303,14 +17252,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19338,7 +17280,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19361,14 +17303,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19398,7 +17333,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19421,14 +17356,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19458,7 +17386,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19481,14 +17409,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19520,7 +17441,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19543,14 +17464,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19580,7 +17494,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19603,14 +17517,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19642,7 +17549,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19665,14 +17572,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19700,7 +17600,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19723,14 +17623,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19760,7 +17653,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19783,14 +17676,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19820,7 +17706,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19843,14 +17729,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19882,7 +17761,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19905,14 +17784,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -19942,7 +17814,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -19965,14 +17837,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20004,7 +17869,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20027,14 +17892,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20062,7 +17920,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20085,14 +17943,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20122,7 +17973,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20145,14 +17996,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20182,7 +18026,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20205,14 +18049,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20244,7 +18081,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20267,14 +18104,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20304,7 +18134,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20327,14 +18157,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20366,7 +18189,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20389,14 +18212,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20424,7 +18240,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20447,14 +18263,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20484,7 +18293,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20507,14 +18316,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20544,7 +18346,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20567,14 +18369,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20606,7 +18401,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20629,14 +18424,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20666,7 +18454,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20689,14 +18477,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20728,7 +18509,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20751,14 +18532,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20786,7 +18560,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20809,14 +18583,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20846,7 +18613,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20869,14 +18636,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20906,7 +18666,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20929,14 +18689,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -20968,7 +18721,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -20991,14 +18744,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21028,7 +18774,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21051,14 +18797,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21090,7 +18829,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21113,14 +18852,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21148,7 +18880,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21171,14 +18903,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21208,7 +18933,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21231,14 +18956,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21274,7 +18992,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21297,14 +19015,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21336,7 +19047,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21359,14 +19070,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21402,7 +19106,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21425,14 +19129,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21464,7 +19161,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21487,14 +19184,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21530,7 +19220,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21553,14 +19243,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21592,7 +19275,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21615,14 +19298,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21656,7 +19332,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21679,14 +19355,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21716,7 +19385,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21739,14 +19408,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21780,7 +19442,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21803,14 +19465,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21840,7 +19495,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21863,14 +19518,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21906,7 +19554,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21929,14 +19577,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -21972,7 +19613,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -21995,14 +19636,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22038,7 +19672,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22061,14 +19695,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22104,7 +19731,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22127,14 +19754,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22170,7 +19790,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22193,14 +19813,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22232,7 +19845,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22255,14 +19868,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22298,7 +19904,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22321,14 +19927,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22376,7 +19975,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22399,14 +19998,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22438,7 +20030,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22461,14 +20053,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22504,7 +20089,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22527,14 +20112,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22570,7 +20148,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22593,14 +20171,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22632,7 +20203,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22655,14 +20226,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22698,7 +20262,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22721,14 +20285,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22760,7 +20317,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22783,14 +20340,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22822,7 +20372,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22845,14 +20395,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22888,7 +20431,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22911,14 +20454,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -22954,7 +20490,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -22977,14 +20513,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23020,7 +20549,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23043,14 +20572,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23082,7 +20604,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23105,14 +20627,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23146,7 +20661,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23169,14 +20684,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23206,7 +20714,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23229,14 +20737,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23270,7 +20771,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23293,14 +20794,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23330,7 +20824,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23353,14 +20847,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23396,7 +20883,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23419,14 +20906,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23458,7 +20938,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23481,14 +20961,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23524,7 +20997,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23547,14 +21020,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23586,7 +21052,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23609,14 +21075,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23648,7 +21107,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23671,14 +21130,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23714,7 +21166,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23737,14 +21189,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23776,7 +21221,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23799,14 +21244,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23842,7 +21280,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23865,14 +21303,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23904,7 +21335,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23927,14 +21358,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -23970,7 +21394,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -23993,14 +21417,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24032,7 +21449,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24055,14 +21472,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24098,7 +21508,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24121,14 +21531,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24164,7 +21567,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24187,14 +21590,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24226,7 +21622,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24249,14 +21645,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24288,7 +21677,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24311,14 +21700,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24350,7 +21732,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24373,14 +21755,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24414,7 +21789,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24437,14 +21812,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24480,7 +21848,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24503,14 +21871,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24542,7 +21903,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24565,14 +21926,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24602,7 +21956,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24625,14 +21979,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24662,7 +22009,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24685,14 +22032,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24724,7 +22064,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24747,14 +22087,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24786,7 +22119,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24809,14 +22142,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24850,7 +22176,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24873,14 +22199,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24914,7 +22233,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -24937,14 +22256,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -24978,7 +22290,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25001,14 +22313,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25042,7 +22347,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25065,14 +22370,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25106,7 +22404,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25129,14 +22427,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25170,7 +22461,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25193,14 +22484,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25234,7 +22518,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25257,14 +22541,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25296,7 +22573,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25319,14 +22596,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25358,7 +22628,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25381,14 +22651,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25420,7 +22683,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25443,14 +22706,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25482,7 +22738,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25505,14 +22761,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25544,7 +22793,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25567,14 +22816,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25606,7 +22848,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25629,14 +22871,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25670,7 +22905,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25693,14 +22928,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25734,7 +22962,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25757,14 +22985,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25798,7 +23019,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25821,14 +23042,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25862,7 +23076,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25885,14 +23099,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25926,7 +23133,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -25949,14 +23156,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -25990,7 +23190,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26013,14 +23213,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26054,7 +23247,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26077,14 +23270,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26118,7 +23304,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26141,14 +23327,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26182,7 +23361,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26205,14 +23384,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26246,7 +23418,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26269,14 +23441,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26310,7 +23475,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26333,14 +23498,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26374,7 +23532,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26397,14 +23555,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26438,7 +23589,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26461,14 +23612,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26502,7 +23646,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26525,14 +23669,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26566,7 +23703,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26589,14 +23726,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26630,7 +23760,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26653,14 +23783,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26694,7 +23817,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26717,14 +23840,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26758,7 +23874,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26781,14 +23897,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26820,7 +23929,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26843,14 +23952,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26882,7 +23984,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26905,14 +24007,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -26944,7 +24039,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -26967,14 +24062,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27006,7 +24094,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27029,14 +24117,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27070,7 +24151,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27093,14 +24174,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27134,7 +24208,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27157,14 +24231,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27198,7 +24265,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27221,14 +24288,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27262,7 +24322,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27285,14 +24345,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27326,7 +24379,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27349,14 +24402,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27390,7 +24436,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27413,14 +24459,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27454,7 +24493,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27477,14 +24516,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27518,7 +24550,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27541,14 +24573,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27582,7 +24607,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27605,14 +24630,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27646,7 +24664,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27669,14 +24687,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27710,7 +24721,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27733,14 +24744,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27774,7 +24778,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27797,14 +24801,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27838,7 +24835,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27861,14 +24858,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27902,7 +24892,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27925,14 +24915,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -27966,7 +24949,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -27989,14 +24972,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28030,7 +25006,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28053,14 +25029,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28092,7 +25061,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28115,14 +25084,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28156,7 +25118,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28179,14 +25141,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28220,7 +25175,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28243,14 +25198,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28282,7 +25230,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28305,14 +25253,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28344,7 +25285,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28367,14 +25308,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28408,7 +25342,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28431,14 +25365,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28472,7 +25399,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28495,14 +25422,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28534,7 +25454,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28557,14 +25477,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28606,7 +25519,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28629,14 +25542,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28676,7 +25582,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28699,14 +25605,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28744,7 +25643,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28767,14 +25666,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28812,7 +25704,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28835,14 +25727,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28884,7 +25769,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28907,14 +25792,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -28954,7 +25832,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -28977,14 +25855,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29022,7 +25893,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29045,14 +25916,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29094,7 +25958,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29117,14 +25981,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29164,7 +26021,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29187,14 +26044,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29234,7 +26084,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29257,14 +26107,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29302,7 +26145,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29325,14 +26168,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29370,7 +26206,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29393,14 +26229,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29438,7 +26267,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29461,14 +26290,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29506,7 +26328,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29529,14 +26351,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29574,7 +26389,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29597,14 +26412,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29644,7 +26452,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29667,14 +26475,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29712,7 +26513,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29735,14 +26536,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29784,7 +26578,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29807,14 +26601,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29854,7 +26641,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29877,14 +26664,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29926,7 +26706,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -29949,14 +26729,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -29996,7 +26769,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30019,14 +26792,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30068,7 +26834,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30091,14 +26857,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30138,7 +26897,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30161,14 +26920,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30210,7 +26962,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30233,14 +26985,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30280,7 +27025,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30303,14 +27048,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30352,7 +27090,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30375,14 +27113,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30422,7 +27153,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30445,14 +27176,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30494,7 +27218,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30517,14 +27241,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30564,7 +27281,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30587,14 +27304,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30636,7 +27346,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30659,14 +27369,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30706,7 +27409,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30729,14 +27432,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30778,7 +27474,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30801,14 +27497,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30848,7 +27537,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30871,14 +27560,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30920,7 +27602,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -30943,14 +27625,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -30990,7 +27665,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31013,14 +27688,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31062,7 +27730,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31085,14 +27753,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31132,7 +27793,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31155,14 +27816,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31204,7 +27858,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31227,14 +27881,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31276,7 +27923,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31299,14 +27946,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31346,7 +27986,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31369,14 +28009,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31416,7 +28049,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31439,14 +28072,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31486,7 +28112,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31509,14 +28135,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31554,7 +28173,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31577,14 +28196,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31624,7 +28236,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31647,14 +28259,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31692,7 +28297,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31715,14 +28320,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31760,7 +28358,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31783,14 +28381,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31828,7 +28419,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31851,14 +28442,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31896,7 +28480,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31919,14 +28503,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -31964,7 +28541,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -31987,14 +28564,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32032,7 +28602,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32055,14 +28625,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32100,7 +28663,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32123,14 +28686,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32168,7 +28724,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32191,14 +28747,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32236,7 +28785,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32259,14 +28808,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32304,7 +28846,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32327,14 +28869,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32372,7 +28907,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32395,14 +28930,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32440,7 +28968,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32463,14 +28991,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32508,7 +29029,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32531,14 +29052,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32576,7 +29090,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32599,14 +29113,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32648,7 +29155,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32671,14 +29178,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32718,7 +29218,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32741,14 +29241,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32790,7 +29283,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32813,14 +29306,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32860,7 +29346,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32883,14 +29369,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -32932,7 +29411,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -32955,14 +29434,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33002,7 +29474,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33025,14 +29497,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33074,7 +29539,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33097,14 +29562,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33144,7 +29602,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33167,14 +29625,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33216,7 +29667,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33239,14 +29690,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33286,7 +29730,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33309,14 +29753,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33358,7 +29795,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33381,14 +29818,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33428,7 +29858,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33451,14 +29881,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33500,7 +29923,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33523,14 +29946,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33570,7 +29986,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33593,14 +30009,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33638,7 +30047,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33661,14 +30070,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33706,7 +30108,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33729,14 +30131,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33776,7 +30171,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33799,14 +30194,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33844,7 +30232,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33867,14 +30255,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33916,7 +30297,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -33939,14 +30320,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -33986,7 +30360,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34009,14 +30383,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34054,7 +30421,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34077,14 +30444,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34124,7 +30484,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34147,14 +30507,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34194,7 +30547,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34217,14 +30570,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34262,7 +30608,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34285,14 +30631,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34330,7 +30669,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34353,14 +30692,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34402,7 +30734,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34425,14 +30757,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34474,7 +30799,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34497,14 +30822,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34544,7 +30862,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34567,14 +30885,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34614,7 +30925,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34637,14 +30948,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34682,7 +30986,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34705,14 +31009,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34750,7 +31047,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34773,14 +31070,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34820,7 +31110,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 
@@ -34843,14 +31133,7 @@ import k8sclient_root
 from k8sclient_root.rest import ApiException
 from pprint import pprint
 
-# Configure API key authorization: TokenBearer
-k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
-# Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
-# k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
-# Configure HTTP basic authorization: HTTPBasic
-k8sclient_root.configuration.username = 'YOUR_USERNAME'
-k8sclient_root.configuration.password = 'YOUR_PASSWORD'
-# Configure API key authorization: LoopbackTokenBearer
+# Configure API key authorization: BearerToken
 k8sclient_root.configuration.api_key['authorization'] = 'YOUR_API_KEY'
 # Uncomment below to setup prefix (e.g. Bearer) for API key, if needed
 # k8sclient_root.configuration.api_key_prefix['authorization'] = 'Bearer'
@@ -34888,7 +31171,7 @@ Name | Type | Description  | Notes
 
 ### Authorization
 
-[TokenBearer](../README.md#TokenBearer), [HTTPBasic](../README.md#HTTPBasic), [LoopbackTokenBearer](../README.md#LoopbackTokenBearer)
+[BearerToken](../README.md#BearerToken)
 
 ### HTTP request headers
 

@@ -90,11 +90,11 @@ class Configuration(object):
         # Debug file location
         self.logger_file = None
         # Debug switch
-        self.debug = True
+        self.debug = False
 
         # SSL/TLS verification
         # Set this to false to skip verifying SSL certificate when calling API from https server.
-        self.verify_ssl = False
+        self.verify_ssl = True
         # Set this to customize the certificate file to verify the peer.
         self.ssl_ca_cert = None
         # client certificate file
@@ -218,21 +218,7 @@ class Configuration(object):
         :return: The Auth Settings information dict.
         """
         return {
-            'TokenBearer':
-                {
-                    'type': 'api_key',
-                    'in': 'header',
-                    'key': 'authorization',
-                    'value': self.get_api_key_with_prefix('authorization')
-                },
-            'HTTPBasic':
-                {
-                    'type': 'basic',
-                    'in': 'header',
-                    'key': 'Authorization',
-                    'value': self.get_basic_auth_token()
-                },
-            'LoopbackTokenBearer':
+            'BearerToken':
                 {
                     'type': 'api_key',
                     'in': 'header',

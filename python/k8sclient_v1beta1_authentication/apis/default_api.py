@@ -145,7 +145,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -242,7 +242,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json', 'application/yaml', 'application/vnd.kubernetes.protobuf'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,

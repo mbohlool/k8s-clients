@@ -218,21 +218,7 @@ class Configuration(object):
         :return: The Auth Settings information dict.
         """
         return {
-            'TokenBearer':
-                {
-                    'type': 'api_key',
-                    'in': 'header',
-                    'key': 'authorization',
-                    'value': self.get_api_key_with_prefix('authorization')
-                },
-            'HTTPBasic':
-                {
-                    'type': 'basic',
-                    'in': 'header',
-                    'key': 'Authorization',
-                    'value': self.get_basic_auth_token()
-                },
-            'LoopbackTokenBearer':
+            'BearerToken':
                 {
                     'type': 'api_key',
                     'in': 'header',

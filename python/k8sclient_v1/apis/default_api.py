@@ -152,7 +152,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -274,7 +274,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -389,7 +389,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -511,7 +511,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -619,7 +619,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -734,7 +734,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -865,7 +865,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1000,7 +1000,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1111,7 +1111,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1226,7 +1226,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1348,7 +1348,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1463,7 +1463,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1585,7 +1585,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1693,7 +1693,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1808,7 +1808,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -1923,7 +1923,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -2045,7 +2045,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -2160,7 +2160,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -2282,7 +2282,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -2390,7 +2390,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -2505,7 +2505,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -2620,7 +2620,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -2742,7 +2742,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -2857,7 +2857,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -2979,7 +2979,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -3087,7 +3087,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -3202,7 +3202,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -3333,7 +3333,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -3468,7 +3468,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -3579,7 +3579,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -3694,7 +3694,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -3816,7 +3816,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -3931,7 +3931,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -4053,7 +4053,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -4161,7 +4161,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -4276,7 +4276,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -4391,7 +4391,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -4513,7 +4513,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -4628,7 +4628,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -4750,7 +4750,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -4858,7 +4858,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -4973,7 +4973,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -5081,7 +5081,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -5196,7 +5196,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -5318,7 +5318,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -5433,7 +5433,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -5548,7 +5548,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -5663,7 +5663,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -5785,7 +5785,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -5900,7 +5900,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6015,7 +6015,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6130,7 +6130,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6245,7 +6245,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6360,7 +6360,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6475,7 +6475,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6590,7 +6590,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6705,7 +6705,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6820,7 +6820,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -6928,7 +6928,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -7036,7 +7036,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -7151,7 +7151,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -7273,7 +7273,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -7395,7 +7395,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -7517,7 +7517,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -7639,7 +7639,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -7761,7 +7761,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -7883,7 +7883,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8005,7 +8005,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8127,7 +8127,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8249,7 +8249,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8371,7 +8371,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8486,7 +8486,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8608,7 +8608,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8723,7 +8723,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8838,7 +8838,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -8959,7 +8959,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -9087,7 +9087,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -9215,7 +9215,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -9343,7 +9343,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -9471,7 +9471,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -9599,7 +9599,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -9727,7 +9727,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -9855,7 +9855,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -9983,7 +9983,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -10111,7 +10111,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -10239,7 +10239,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -10367,7 +10367,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -10488,7 +10488,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -10609,7 +10609,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -10706,7 +10706,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json', 'application/yaml', 'application/vnd.kubernetes.protobuf'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -10827,7 +10827,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -10948,7 +10948,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -11069,7 +11069,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -11190,7 +11190,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -11311,7 +11311,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -11432,7 +11432,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -11560,7 +11560,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -11688,7 +11688,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -11816,7 +11816,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -11944,7 +11944,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -12072,7 +12072,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -12200,7 +12200,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -12328,7 +12328,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -12456,7 +12456,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -12584,7 +12584,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -12712,7 +12712,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -12840,7 +12840,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -12968,7 +12968,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -13089,7 +13089,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -13210,7 +13210,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -13331,7 +13331,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -13452,7 +13452,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -13573,7 +13573,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -13694,7 +13694,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -13815,7 +13815,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -13936,7 +13936,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -14057,7 +14057,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -14178,7 +14178,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -14293,7 +14293,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -14408,7 +14408,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -14530,7 +14530,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -14652,7 +14652,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -14774,7 +14774,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -14896,7 +14896,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15018,7 +15018,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15140,7 +15140,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15262,7 +15262,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15384,7 +15384,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15506,7 +15506,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15628,7 +15628,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15750,7 +15750,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15872,7 +15872,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -15994,7 +15994,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -16116,7 +16116,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -16238,7 +16238,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -16360,7 +16360,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -16482,7 +16482,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -16604,7 +16604,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -16719,7 +16719,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -16834,7 +16834,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -16949,7 +16949,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -17064,7 +17064,7 @@ class DefaultApi(object):
             select_header_content_type(['application/json-patch+json', 'application/merge-patch+json', 'application/strategic-merge-patch+json'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PATCH',
                                             path_params,
@@ -17175,7 +17175,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -17293,7 +17293,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -17404,7 +17404,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -17522,7 +17522,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -17626,7 +17626,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -17737,7 +17737,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'DELETE',
                                             path_params,
@@ -17848,7 +17848,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -17966,7 +17966,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -18077,7 +18077,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -18195,7 +18195,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -18299,7 +18299,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -18410,7 +18410,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -18521,7 +18521,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -18639,7 +18639,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -18750,7 +18750,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -18868,7 +18868,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -18972,7 +18972,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -19083,7 +19083,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'HEAD',
                                             path_params,
@@ -19194,7 +19194,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -19312,7 +19312,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -19423,7 +19423,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -19541,7 +19541,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -19645,7 +19645,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -19756,7 +19756,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'OPTIONS',
                                             path_params,
@@ -19867,7 +19867,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -19985,7 +19985,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -20096,7 +20096,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -20214,7 +20214,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -20318,7 +20318,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -20429,7 +20429,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'POST',
                                             path_params,
@@ -20540,7 +20540,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -20658,7 +20658,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -20769,7 +20769,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -20887,7 +20887,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -20991,7 +20991,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -21102,7 +21102,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -21210,7 +21210,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -21326,7 +21326,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -21434,7 +21434,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -21557,7 +21557,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -21680,7 +21680,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -21803,7 +21803,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -21926,7 +21926,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -22049,7 +22049,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -22164,7 +22164,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -22287,7 +22287,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -22434,7 +22434,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -22549,7 +22549,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -22672,7 +22672,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -22795,7 +22795,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -22910,7 +22910,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23033,7 +23033,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23148,7 +23148,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23263,7 +23263,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23386,7 +23386,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23509,7 +23509,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23632,7 +23632,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23747,7 +23747,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23863,7 +23863,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -23971,7 +23971,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -24087,7 +24087,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -24195,7 +24195,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -24310,7 +24310,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -24425,7 +24425,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -24540,7 +24540,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -24662,7 +24662,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -24784,7 +24784,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -24906,7 +24906,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -25028,7 +25028,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -25150,7 +25150,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -25272,7 +25272,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -25394,7 +25394,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -25516,7 +25516,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -25638,7 +25638,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -25760,7 +25760,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -25882,7 +25882,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26004,7 +26004,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26126,7 +26126,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26248,7 +26248,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26370,7 +26370,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26492,7 +26492,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26614,7 +26614,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26736,7 +26736,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26851,7 +26851,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -26966,7 +26966,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -27081,7 +27081,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -27196,7 +27196,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'PUT',
                                             path_params,
@@ -27317,7 +27317,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -27438,7 +27438,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -27559,7 +27559,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -27680,7 +27680,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -27808,7 +27808,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -27929,7 +27929,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -28064,7 +28064,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -28192,7 +28192,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -28327,7 +28327,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -28455,7 +28455,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -28590,7 +28590,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -28718,7 +28718,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -28853,7 +28853,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -28981,7 +28981,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -29116,7 +29116,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -29244,7 +29244,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -29379,7 +29379,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -29507,7 +29507,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -29642,7 +29642,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -29770,7 +29770,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -29905,7 +29905,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -30033,7 +30033,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -30168,7 +30168,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -30296,7 +30296,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -30431,7 +30431,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -30559,7 +30559,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -30694,7 +30694,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -30829,7 +30829,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -30957,7 +30957,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -31085,7 +31085,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -31213,7 +31213,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -31334,7 +31334,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -31462,7 +31462,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -31583,7 +31583,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -31704,7 +31704,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -31825,7 +31825,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -31946,7 +31946,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -32067,7 +32067,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -32188,7 +32188,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -32309,7 +32309,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -32430,7 +32430,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,
@@ -32551,7 +32551,7 @@ class DefaultApi(object):
             select_header_content_type(['*/*'])
 
         # Authentication setting
-        auth_settings = ['TokenBearer', 'HTTPBasic', 'LoopbackTokenBearer']
+        auth_settings = ['BearerToken']
 
         return self.api_client.call_api(resource_path, 'GET',
                                             path_params,

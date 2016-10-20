@@ -7,6 +7,7 @@ ClientSet is a set of kubernetes clients for each API group/version.
 from __future__ import absolute_import
 
 import yaml
+import urllib3
 
 def find_object_with_name(o, name):
     for c in o:
@@ -38,13 +39,12 @@ class ClientSet(object):
         self.token = token
         self._clients = {}
         if config_file:
-            f = open("/Users/mehdy/.kube/config")
+            f = open(config_file)
             try:
                 config = yaml.load(f)
                 active_context = find_object_with_name(config['contexts'], config['current-context'])['context']
                 user = find_object_with_name(config['users'],active_context['user'])['user']
                 cluster = find_object_with_name(config['clusters'],active_context['cluster'])['cluster']
-                print cluster
                 if 'server' in cluster:
                     self.host = cluster['server']
                 if 'username' in user:
@@ -65,11 +65,11 @@ class ClientSet(object):
             models = __import__('k8sclient_%s.models' % (name))
             config_cls = config.Configuration()
             config_cls.host = self.host
-            config_cls.username = self.username
-            config_cls.password = self.password
             if self.token:
-                config_cls.api_key_prefix['authorization']='bearer'
-                config_cls.api_key['authorization'] = self.token
+                config_cls.api_key['authorization'] = "bearer " + self.token
+            else:
+                config_cls.api_key['authorization'] = urllib3.util.make_headers(
+                    basic_auth=self.username + ':' + self.password).get('authorization')
 #            config_cls.ssl_ca_cert = self.ssl_ca_cert
             config.verify_ssl = False
             self._clients[name] = {'config': config, 'api': api, models: 'models'}
