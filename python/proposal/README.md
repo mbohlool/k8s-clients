@@ -7,13 +7,17 @@ This client is auto-generated from OpenAPI spec. There is a manually written par
 ## Example
 
 ```python
-import client_set
-import client.k8sclient_v1
+from __future__ import absolute_import
+
+import config
+import k8sclient.apis.v1_core_api
+import os
 
 # Configs can be set in Configuration class directly or using helper class config (manually written)
-c=config.load_config(config_file=os.environ["HOME"] + '/.kube/config')
-v1_client=k8sclient_core_v1.CoreV1Client()
-pods=v1_client.list_pod_for_all_namespaces()
+config.load_config(os.environ["HOME"] + '/.kube/config')
+
+v1=k8sclient.apis.v1_core_api.V1CoreApi()
+print v1.list_core_v1_pod_for_all_namespaces(watch=False)
 ```
 
 ## Author
