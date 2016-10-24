@@ -1,8 +1,9 @@
-import client_set
+from __future__ import absolute_import
+
+import config
+import k8sclient.apis.v1_core_api
 import os
 
-c=client_set.ClientSet(config_file=os.environ["HOME"] + '/.kube/config')
-print c
-v1=c.get_client('v1')
-print v1
-print v1.list_pod_for_all_namespaces(pretty=True, watch=False)
+config.load_config(os.environ["HOME"] + '/.kube/config')
+v1=k8sclient.apis.v1_core_api.V1CoreApi()
+print v1.list_core_v1_pod_for_all_namespaces(watch=False)

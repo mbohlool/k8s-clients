@@ -29,24 +29,10 @@ if [[ ! -n ${KUBE_ROOT-} ]]; then
   exit
 fi
 
-skip_list="swagger_root version api apis apps version"
-
-for i in $KUBE_ROOT/api/openapi-spec/*; 
-do   
-  echo "Generating client for $i ..."
-  fname=$(basename $i)
-  fname="${fname%.*}"
-  fname=${fname/.k8s.io/}
-  fname=${fname/./_}
-  fname=${fname/root_swagger/root}
-  pkg_name=k8sclient_$fname
-  [[ -d $pkg_name ]] && rm -rf $pkg_name
-  temp_dir=$(mktemp -d)
-  echo "{\"packageName\": \"$pkg_name\", \"sortParamsByRequiredFlag\": true}" > /tmp/config
-  java -jar bin/swagger-codegen-cli.jar generate -l python --config /tmp/config -o $temp_dir -i $i  1>&2 2>/dev/null
-  cp -r $temp_dir/$pkg_name $pkg_name
-  cp -r $temp_dir/docs $pkg_name/docs
-  rm -rf $temp_dir
-  echo "Client generated on ./$fname"
-done
+echo "Generating client ..."
+fname="$KUBE_ROOT/api/openapi-spec/swagger.json"
+pkg_name=k8sclient
+echo "{\"packageName\": \"$pkg_name\", \"sortParamsByRequiredFlag\": true}" > /tmp/config
+java -jar bin/swagger-codegen-cli.jar generate -l python --config /tmp/config -o . -i $fname
+echo "Client generated on ./$fname"
 
