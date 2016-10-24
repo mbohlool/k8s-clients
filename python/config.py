@@ -9,6 +9,7 @@ from __future__ import absolute_import
 import yaml
 import urllib3
 import tempfile
+import base64
 
 import k8sclient.configuration
 
@@ -22,15 +23,13 @@ def find_object_with_name(o, name):
 _tempfiles = []
 
 def _create_temp_file_with_content(title, content):
-    print "temp: " + str(content)
     _, name = tempfile.mkstemp()
     fd = open(name, 'w')
     try:
-        fd.write("-----BEGIN " + title + "-----\n")
-        fd.write(str(content))
-        fd.write("\n-----END " + title + "-----\n")
+        fd.write(base64.decodestring(content))
     finally:
         fd.close()
+    print name
     return name
 
 
