@@ -8,6 +8,7 @@ from __future__ import absolute_import
 
 import yaml
 import urllib3
+import tempfile
 
 import k8sclient.configuration
 
@@ -17,6 +18,20 @@ def find_object_with_name(o, name):
         if c['name'] == name:
             return c
     return None
+
+_tempfiles = []
+
+def _create_temp_file_with_content(title, content):
+    print "temp: " + str(content)
+    _, name = tempfile.mkstemp()
+    fd = open(name, 'w')
+    try:
+        fd.write("-----BEGIN " + title + "-----\n")
+        fd.write(str(content))
+        fd.write("\n-----END " + title + "-----\n")
+    finally:
+        fd.close()
+    return name
 
 
 def load_config(config_file):
@@ -34,6 +49,11 @@ def load_config(config_file):
                 basic_auth=user['username'] + ':' + user['password']).get('authorization')
         if 'token' in user:
             c.api_key['authorization'] = "bearer " + user['token']
-        c.verify_ssl = False
+        if 'certificate-authority-data' in cluster:
+            c.ssl_ca_cert = _create_temp_file_with_content("CERTIFICATE REQUEST", cluster['certificate-authority-data'])
+        if 'client-certificate-data' in user:
+            c.cert_file = _create_temp_file_with_content("CERTIFICATE AUTHORITY", user['client-certificate-data'])
+        if 'client-key-data' in user:
+            c.key_file = _create_temp_file_with_content("RSA PRIVATE KEY", user['client-key-data'])
     finally:
         f.close()
