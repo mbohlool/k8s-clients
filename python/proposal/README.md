@@ -20,6 +20,12 @@ v1=k8sclient.apis.v1_core_api.V1CoreApi()
 print v1.list_core_v1_pod_for_all_namespaces(watch=False)
 ```
 
+## Timeline
+
+- 1.5 Release: Generate the client, load config from file with SSL support
+- Q4 2016:     List missing/useful missing funtionalities
+- 1.6 Release: Support stream responses for watch API calls
+
 ## Author
 
 mbohlool
