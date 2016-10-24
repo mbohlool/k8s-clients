@@ -34,5 +34,7 @@ fname="$KUBE_ROOT/api/openapi-spec/swagger.json"
 pkg_name=k8sclient
 echo "{\"packageName\": \"$pkg_name\", \"sortParamsByRequiredFlag\": true}" > /tmp/config
 java -jar bin/swagger-codegen-cli.jar generate -l python --config /tmp/config -o . -i $fname
+rm ./git_push.sh
 echo "Client generated on ./$fname"
+cp $KUBE_ROOT/LICENSE .
 
