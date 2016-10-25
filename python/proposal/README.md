@@ -2,7 +2,12 @@
 
 Kubernetes only have one supported client right now (go). The goal of this project is to extend it by developing and supporting a python client. Python has been chosen because of many automation tools use python and also there are community interest in it.
 
-This client is auto-generated from OpenAPI spec. There is a manually written part that takes care of authentication, SSL, and any other shortcoming of generated clients (currently I can name streaming output for watch API calls).
+Requirements:
+- Auto-generated to keep in sync with API changes
+- Using standard generation tools that can be applied to other languages
+- Easy ways to configure clients (e.g. read kube config file)
+- Support Secure connections
+- Support streaming responses (optional for the first version of client)
 
 ## Example
 
