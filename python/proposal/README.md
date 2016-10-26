@@ -35,7 +35,9 @@ for i in ret.items:
 - Q4 2016:     List missing/useful missing funtionalities
 - 1.6 Release: Support stream responses for watch API calls
 
-## Author
+## Community
 
-mbohlool
+Author: mbohlool@
+Sponsor: smarterclayton@
+champion: caesarxuchao@
 
