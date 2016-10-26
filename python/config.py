@@ -13,7 +13,6 @@ import base64
 
 import k8sclient.configuration
 
-
 def find_object_with_name(o, name):
     for c in o:
         if c['name'] == name:
@@ -48,11 +47,14 @@ def load_config(config_file):
                 basic_auth=user['username'] + ':' + user['password']).get('authorization')
         if 'token' in user:
             c.api_key['authorization'] = "bearer " + user['token']
+        if 'insecure-skip-tls-verify' in cluster:
+            c.verify_ssl = (cluster['insecure-skip-tls-verify'] == "true")
         if 'certificate-authority-data' in cluster:
             c.ssl_ca_cert = _create_temp_file_with_content("CERTIFICATE REQUEST", cluster['certificate-authority-data'])
         if 'client-certificate-data' in user:
             c.cert_file = _create_temp_file_with_content("CERTIFICATE AUTHORITY", user['client-certificate-data'])
         if 'client-key-data' in user:
             c.key_file = _create_temp_file_with_content("RSA PRIVATE KEY", user['client-key-data'])
+        # c.api_client = k8s_api_client.K8sApiClient()
     finally:
         f.close()

@@ -28,7 +28,6 @@ import json
 import mimetypes
 import tempfile
 import threading
-import sys
 
 from datetime import datetime
 from datetime import date
@@ -39,42 +38,12 @@ from six.moves.urllib.parse import quote
 
 from .configuration import Configuration
 
-import backports.ssl_match_hostname
-import ipaddress
-
 try:
     import requests
 except ImportError:
     raise ImportError('Swagger python client requires requests.')
 
-prev_match_hostname = None
-
-def _to_unicode(obj):
-    if isinstance(obj, str) and sys.version_info < (3,):
-        obj = unicode(obj, encoding='ascii', errors='strict')
-    return obj
-
-def _ip_address(str):
-    return ipaddress.ip_address(_to_unicode(str).rstrip())
-
-def _match_hostname(cert, hostname):
-    if not prev_match_hostname:
-        raise TypeError("prev_match_hostname should not be None")
-    try:
-        # Divergence from upstream: ipaddress can't handle byte str
-        host_ip = _ip_address(hostname)
-        san = cert.get('subjectAltName', ())
-        for key, value in san:
-            if key == 'IP Address':
-                if host_ip is not None and _ip_address(value) == host_ip:
-                    return
-    except ValueError:
-        pass
-    return prev_match_hostname(cert, hostname)
-
-
-
-class ApiClient(object):
+class K8sApiClient(object):
     """
     Generic API client for Swagger client library builds.
 
@@ -106,21 +75,17 @@ class ApiClient(object):
         self.cookie = cookie
         # Set default User-Agent.
         self.user_agent = 'Swagger-Codegen/1.0.0/python'
-        config = Configuration()
-        if config.verify_ssl:
-            if config.ssl_ca_cert:
-                self.verify = config.ssl_ca_cert
+        if configuration.verify_ssl:
+            if configuration.ssl_ca_cert:
+                self.verify = configuration.ssl_ca_cert
             else:
                 self.verify = True
         else:
             self.verify = False
-        if config.cert_file and config.key_file:
-            self.cert = (config.cert_file, config.key_file)
+        if configuration.cert_file and configuration.key_file:
+            self.cert = (configuration.cert_file, configuration.key_file)
         else:
             self.cert = None
-        global prev_match_hostname
-        prev_match_hostname=requests.packages.urllib3.connection.match_hostname
-        requests.packages.urllib3.connection.match_hostname = _match_hostname
 
     @property
     def user_agent(self):
@@ -202,11 +167,11 @@ class ApiClient(object):
             deserialized_data = None
 
         if callback:
-            callback(deserialized_data) if _return_http_data_only else callback((deserialized_data, response_data.status_code, response_data.headers))
+            callback(deserialized_data) if _return_http_data_only else callback((deserialized_data, response_data.status, response_data.getheaders()))
         elif _return_http_data_only:
             return (deserialized_data)
         else:
-            return (deserialized_data, response_data.status_code, response_data.headers)
+            return (deserialized_data, response_data.status, response_data.getheaders())
 
     def sanitize_for_serialization(self, obj):
         """
@@ -269,9 +234,9 @@ class ApiClient(object):
 
         # fetch data from response object
         try:
-            data = json.loads(response.content)
+            data = json.loads(response.data)
         except ValueError:
-            data = response.content
+            data = response.data
 
         return self.__deserialize(data, response_type)
 
@@ -397,7 +362,7 @@ class ApiClient(object):
                 "http method must be `GET`, `HEAD`, `OPTIONS`,"
                 " `POST`, `PATCH`, `PUT` or `DELETE`."
             )
-        return r(url, params=query_params, headers=headers, data=data, json=json, verify=self.verify, cert=self.cert)
+        r(url, params=query_params, headers=headers, data=data, json=json, verify=self.verify, cert=self.cert)
 
     def parameters_to_tuples(self, params, collection_formats):
         """
@@ -541,7 +506,7 @@ class ApiClient(object):
             path = os.path.join(os.path.dirname(path), filename)
 
         with open(path, "w") as f:
-            f.write(response.content)
+            f.write(response.data)
 
         return path
 
