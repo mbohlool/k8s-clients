@@ -253,29 +253,29 @@ from .models.versioned_event import VersionedEvent
 # import apis into sdk package
 from .apis.apis_api import ApisApi
 from .apis.apps_api import AppsApi
+from .apis.apps_v1alpha1_api import AppsV1alpha1Api
 from .apis.authentication_api import AuthenticationApi
+from .apis.authentication_v1beta1_api import AuthenticationV1beta1Api
 from .apis.authorization_api import AuthorizationApi
+from .apis.authorization_v1beta1_api import AuthorizationV1beta1Api
 from .apis.autoscaling_api import AutoscalingApi
+from .apis.autoscaling_v1_api import AutoscalingV1Api
 from .apis.batch_api import BatchApi
+from .apis.batch_v1_api import BatchV1Api
+from .apis.batch_v2alpha1_api import BatchV2alpha1Api
 from .apis.certificates_api import CertificatesApi
+from .apis.certificates_v1alpha1_api import CertificatesV1alpha1Api
 from .apis.core_api import CoreApi
+from .apis.core_v1_api import CoreV1Api
 from .apis.extensions_api import ExtensionsApi
+from .apis.extensions_v1beta1_api import ExtensionsV1beta1Api
 from .apis.logs_api import LogsApi
 from .apis.policy_api import PolicyApi
+from .apis.policy_v1alpha1_api import PolicyV1alpha1Api
 from .apis.rbac_authorization_api import RbacAuthorizationApi
+from .apis.rbac_authorization_v1alpha1_api import RbacAuthorizationV1alpha1Api
 from .apis.storage_api import StorageApi
-from .apis.v1_autoscaling_api import V1AutoscalingApi
-from .apis.v1_batch_api import V1BatchApi
-from .apis.v1_core_api import V1CoreApi
-from .apis.v1alpha1_apps_api import V1alpha1AppsApi
-from .apis.v1alpha1_certificates_api import V1alpha1CertificatesApi
-from .apis.v1alpha1_policy_api import V1alpha1PolicyApi
-from .apis.v1alpha1_rbac_authorization_api import V1alpha1RbacAuthorizationApi
-from .apis.v1beta1_authentication_api import V1beta1AuthenticationApi
-from .apis.v1beta1_authorization_api import V1beta1AuthorizationApi
-from .apis.v1beta1_extensions_api import V1beta1ExtensionsApi
-from .apis.v1beta1_storage_api import V1beta1StorageApi
-from .apis.v2alpha1_batch_api import V2alpha1BatchApi
+from .apis.storage_v1beta1_api import StorageV1beta1Api
 from .apis.version_api import VersionApi
 
 # import ApiClient

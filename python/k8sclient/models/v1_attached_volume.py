@@ -59,7 +59,7 @@ class V1AttachedVolume(object):
     def device_path(self):
         """
         Gets the device_path of this V1AttachedVolume.
-        DevicePath represents the device path where the volume should be avilable
+        DevicePath represents the device path where the volume should be available
 
         :return: The device_path of this V1AttachedVolume.
         :rtype: str
@@ -70,7 +70,7 @@ class V1AttachedVolume(object):
     def device_path(self, device_path):
         """
         Sets the device_path of this V1AttachedVolume.
-        DevicePath represents the device path where the volume should be avilable
+        DevicePath represents the device path where the volume should be available
 
         :param device_path: The device_path of this V1AttachedVolume.
         :type: str
