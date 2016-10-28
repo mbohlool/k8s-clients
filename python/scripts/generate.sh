@@ -21,7 +21,8 @@ set -o errexit
 set -o nounset
 set -o pipefail
 
-CLIENT_ROOT=..
+SCRIPT_ROOT=$(dirname "${BASH_SOURCE}")
+CLIENT_ROOT=${SCRIPT_ROOT}/..
 
 [[ -d ${CLIENT_ROOT}/bin ]] || mkdir bin
 [[ -f ${CLIENT_ROOT}/bin/swagger-codegen-cli.jar ]] || curl http://repo1.maven.org/maven2/io/swagger/swagger-codegen-cli/2.2.1/swagger-codegen-cli-2.2.1.jar > ${CLIENT_ROOT}/bin/swagger-codegen-cli.jar
@@ -35,9 +36,14 @@ if [[ ! -n ${SWAGGER_FILE-} ]]; then
   FROM_KUBE="True"
 fi
 
+pkg_name=k8sclient
+echo "Cleaning up previously generated folders"
+rm -rf ${CLIENT_ROOT}/${pkg_name}
+rm -rf ${CLIENT_ROOT}/docs
+rm -rf ${CLIENT_ROOT}/tests
 echo "Generating client ..."
 pkg_name=k8sclient
-java -jar ${CLIENT_ROOT}/bin/swagger-codegen-cli.jar generate -l python --config config -o ${CLIENT_ROOT} -i ${SWAGGER_FILE}
+java -jar ${CLIENT_ROOT}/bin/swagger-codegen-cli.jar generate -l python --config ${SCRIPT_ROOT}/config -o ${CLIENT_ROOT} -i ${SWAGGER_FILE}
 rm ${CLIENT_ROOT}/git_push.sh
 echo "Client generated on ${CLIENT_ROOT}/"
 if [[ -n ${FROM_KUBE-} ]]; then
